@@ -1,0 +1,12 @@
+.countri{
+    border: 2px solid skyblue;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px; 
+}
+.visited{
+    background-color:bisque ;
+}
+.flag-container img{
+    width: 50px;
+}
